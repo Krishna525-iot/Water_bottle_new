@@ -1,0 +1,9 @@
+../Core/Src/battery.c:35:16:Battery_PctFromMv	16	static
+../Core/Src/battery.c:55:17:Battery_ReadADC	32	static
+../Core/Src/battery.c:77:6:Battery_Init	0	static
+../Core/Src/battery.c:86:6:Battery_Update	32	static
+../Core/Src/battery.c:134:9:Battery_GetPercent	8	static
+../Core/Src/battery.c:140:10:Battery_GetVoltageMv	8	static
+../Core/Src/battery.c:146:9:Battery_IsCharging	0	static
+../Core/Src/battery.c:147:9:Battery_IsFull	0	static
+../Core/Src/battery.c:148:9:Battery_IsLow	8	static

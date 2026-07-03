@@ -1,0 +1,13 @@
+../Core/Src/rtc_manager.c:50:16:BCD2DEC	1
+../Core/Src/rtc_manager.c:51:16:DEC2BCD	1
+../Core/Src/rtc_manager.c:53:26:PCF_ReadRegs	2
+../Core/Src/rtc_manager.c:61:26:PCF_WriteRegs	1
+../Core/Src/rtc_manager.c:73:19:RTC_Init	3
+../Core/Src/rtc_manager.c:97:19:RTC_Read	2
+../Core/Src/rtc_manager.c:115:19:RTC_Write	1
+../Core/Src/rtc_manager.c:129:19:RTC_SetFromUnix	10
+../Core/Src/rtc_manager.c:171:6:RTC_TickISR	1
+../Core/Src/rtc_manager.c:177:9:RTC_PopTick	2
+../Core/Src/rtc_manager.c:184:19:RTC_ClearTimerFlag	1
+../Core/Src/rtc_manager.c:197:10:RTC_ToUnix	5
+../Core/Src/rtc_manager.c:222:9:RTC_IsInWindow	2

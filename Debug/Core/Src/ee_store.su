@@ -1,0 +1,12 @@
+../Core/Src/ee_store.c:12:16:ee_crc8	20	static
+../Core/Src/ee_store.c:24:16:ee_write	40	static
+../Core/Src/ee_store.c:39:16:ee_read	24	static
+../Core/Src/ee_store.c:51:6:EE_Store_Init	24	static
+../Core/Src/ee_store.c:63:9:EE_Store_IsPresent	0	static
+../Core/Src/ee_store.c:66:9:EE_Store_ReadHeader	16	static
+../Core/Src/ee_store.c:75:16:ee_write_header	8	static
+../Core/Src/ee_store.c:82:9:EE_Store_Format	24	static
+../Core/Src/ee_store.c:93:17:slot_addr	0	static
+../Core/Src/ee_store.c:98:9:EE_Store_Append	56	static
+../Core/Src/ee_store.c:120:9:EE_Store_ReadRecord	16	static
+../Core/Src/ee_store.c:129:10:EE_Store_Count	24	static

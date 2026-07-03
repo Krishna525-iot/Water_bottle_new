@@ -1,0 +1,13 @@
+../Core/Src/rtc_manager.c:50:16:BCD2DEC	0	static
+../Core/Src/rtc_manager.c:51:16:DEC2BCD	16	static
+../Core/Src/rtc_manager.c:53:26:PCF_ReadRegs	40	static
+../Core/Src/rtc_manager.c:61:26:PCF_WriteRegs	40	static
+../Core/Src/rtc_manager.c:73:19:RTC_Init	24	static
+../Core/Src/rtc_manager.c:97:19:RTC_Read	24	static
+../Core/Src/rtc_manager.c:115:19:RTC_Write	24	static
+../Core/Src/rtc_manager.c:129:19:RTC_SetFromUnix	48	static
+../Core/Src/rtc_manager.c:171:6:RTC_TickISR	0	static
+../Core/Src/rtc_manager.c:177:9:RTC_PopTick	0	static
+../Core/Src/rtc_manager.c:184:19:RTC_ClearTimerFlag	16	static
+../Core/Src/rtc_manager.c:197:10:RTC_ToUnix	16	static
+../Core/Src/rtc_manager.c:222:9:RTC_IsInWindow	20	static

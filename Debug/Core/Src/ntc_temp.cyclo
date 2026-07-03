@@ -1,0 +1,7 @@
+../Core/Src/ntc_temp.c:94:17:NTC_ReadADC	2
+../Core/Src/ntc_temp.c:141:6:NTC_Init	1
+../Core/Src/ntc_temp.c:150:9:NTC_SetOffset	1
+../Core/Src/ntc_temp.c:151:9:NTC_GetOffset	1
+../Core/Src/ntc_temp.c:158:9:NTC_ReadTemp_x10_Raw	11
+../Core/Src/ntc_temp.c:273:9:NTC_ReadTemp_x10	1
+../Core/Src/ntc_temp.c:295:9:NTC_IsAboveThreshold	2
